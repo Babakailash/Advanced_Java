@@ -1,8 +1,7 @@
 package serialization;
-/*Serialization in Java is a mechanism of writing the state
-of an object into a byte-stream. It is mainly used in
-Hibernate, RMI, JPA, EJB and JMS technologies. The reverse
-operation of serialization is called deserialization
+/*Serialization in Java is a mechanism of writing the state of an object into a byte-stream.
+It is mainly used in Hibernate, RMI, JPA, EJB and JMS technologies.
+The reverse operation of serialization is called deserialization
 where byte-stream is converted into an object.*/
 
 import java.io.*;

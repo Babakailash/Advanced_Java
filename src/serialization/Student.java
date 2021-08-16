@@ -8,7 +8,7 @@ public class Student implements Serializable {
     private int age;
     private String address;
 
-     int x;
+      int x; // transient
 
     public int getX() {
         return x;
