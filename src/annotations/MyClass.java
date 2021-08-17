@@ -1,4 +1,4 @@
-package Annotations;
+package annotations;
 /*Java defines seven built-in annotations.
 Four are imported from java. lang. annotation: @Retention, @Documented, @Target, and @Inherited.
 Three are included in java.lang: @Deprecated, @Override and @SuppressWarnings.*/
